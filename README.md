@@ -2,9 +2,8 @@
 
 ## 🎯 Project Overview  
 Ready to explore the world of retail data? 🚀 In this project, I took the **Global Superstore Dataset** and performed an in-depth analysis using Excel and Tableau! I cleaned, manipulated, and visualized the data to uncover insights about sales trends, profits, and customer demographics. All the magic was wrapped up in a stunning Tableau dashboard! 🧙‍♂️✨  
+![Dashboard Preview]![image]((https://github.com/user-attachments/assets/00d78d6e-462a-41a5-9611-65277b541da3)
 
-Dashboard Preview[image](https://github.com/user-attachments/assets/00d78d6e-462a-41a5-9611-65277b541da3)
-)  
 
 ---
 
